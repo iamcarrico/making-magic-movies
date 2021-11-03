@@ -1,0 +1,15 @@
+/**
+ * Global Styles
+ */
+
+@import './variables';
+@import './normalize';
+@import './type';
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 0 1em;
+}
